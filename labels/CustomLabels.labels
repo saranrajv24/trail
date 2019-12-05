@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
         <fullName>ACV_Atlas_Message</fullName>
@@ -28190,5 +28190,198 @@ User is deactivated. The new user should to be created to properly handle target
         <protected>false</protected>
         <shortDescription>MA_Lead_Central_UserName</shortDescription>
         <value>Lead Central Routing Integration</value>
+
+    <labels>
+
+        <fullName>OpportunityEditAccessError</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>You don&apos;t have the edit permission on the opportunity record.</shortDescription>
+        <value>You don&apos;t have the edit permission on the opportunity record.</value>
+    </labels>
+     <labels>
+        <fullName>Business_Plan_Impact_Default_Value</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Business Plan Impact Default Value</shortDescription>
+        <value>Strongly recommended to have business plan with all partners published in www.abb.com</value>
+    </labels>
+    <labels>
+
+        <fullName>APTS_Shopping_Cart_Pricing_Batch_Size</fullName>
+        <categories>Batch Size</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>APTS Shopping Cart Pricing Batch Size</shortDescription>
+        <value>10</value>
+    </labels>
+    <labels>
+
+
+<labels>
+
+        <fullName>Channel_Partner_Business_Plan_Opportunities</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Channel Partner Business Plan Opportunities</shortDescription>
+        <value>Opportunities Linked to Channel Partner Business Plan</value>
+    </labels>
+    <labels>
+        <fullName>ABBSTS_Opportunity_Current_Page_Id</fullName>
+        <categories>R4 - get current page id</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ABBSTS_Opportunity_Current_Page_Id</shortDescription>
+        <value>id</value>
+    </labels>
+    <labels>
+        <fullName>ABBSTS_Opportunity_StageName</fullName>
+        <categories>R5 - Used in Class cancelOpptyChanges</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ABBSTS_Opportunity_StageName</shortDescription>
+        <value>?stageName=</value>
+    </labels>
+    <labels>
+        <fullName>ABB_Basic_Admin_Profile_Name</fullName>
+        <categories>R5 - Used in JointBusinessPlanRecordTypeController</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ABB Basic Admin Profile Name</shortDescription>
+        <value>System Administrator</value>
+    </labels>
+    <labels>
+        <fullName>ABB_Company</fullName>
+        <categories>R5.0.7 ABB</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>R5.0.7 Company name for ABB Users</shortDescription>
+        <value>ABB</value>
+    </labels>
+    <labels>
+        <fullName>ABB_External_Customer_Support_Profile</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ABB External Customer Support Profile</shortDescription>
+        <value>ABB External Customer Support Profile</value>
+    </labels>
+    <labels>
+        <fullName>ABB_ICV_Channel_Class_Update</fullName>
+        <categories>Created as part of R5 Req#2280.</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ABB ICV Channel Class Update</shortDescription>
+        <value>ABBINT - Internal ABB Sales</value>
+    </labels>
+    <labels>
+        <fullName>ABB_Location_Data_Load_Year_Filter</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ABB_Location_Data_Load_Year_Filter</shortDescription>
+        <value>2015</value>
+    </labels>
+    <labels>
+        <fullName>ABB_Location_not_editable_for_Parent_Objects</fullName>
+        <categories>Mobile Management</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ABB Location not editable for Parent Objects</shortDescription>
+        <value>ABB Location</value>
+    </labels>
+    <labels>
+        <fullName>ABB_Marketing_Automation_Profile</fullName>
+        <categories>A new profile for all Marketing users related to the Countries like CN,IT and US</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ABB Marketing Automation Profile</shortDescription>
+        <value>ABB Marketing Automation Profile</value>
+    </labels>
+    <labels>
+        <fullName>ABB_Marketing_Standard_Profile</fullName>
+        <categories>Profile</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ABB Marketing Standard Profile</shortDescription>
+        <value>ABB Marketing Standard Profile</value>
+    </labels>
+    <labels>
+        <fullName>ABB_Profile_Name</fullName>
+        <categories>R8</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ABB Profile Name</shortDescription>
+        <value>ABB Partner Community User</value>
+    </labels>
+    <labels>
+        <fullName>ABB_Sales_Stage_Prospecting</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ABB Sales Stage Prospecting</shortDescription>
+        <value>Prospecting</value>
+    </labels>
+    <labels>
+        <fullName>ABB_Sales_and_Marketing_Record_Type</fullName>
+        <categories>Record type of sales and marketing</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ABB Sales and Marketing Record Type</shortDescription>
+        <value>Sales &amp; Marketing</value>
+    </labels>
+    <labels>
+        <fullName>ACT_countries</fullName>
+        <categories>GDPR</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ACT countries</shortDescription>
+        <value>Cuba;Syrian Arab Republic;Venezuela, Bolivarian Republic of;</value>
+    </labels>
+    <labels>
+        <fullName>ACT_country_codes</fullName>
+        <categories>GDPR</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ACT country codes</shortDescription>
+        <value>CU,SY,VE</value>
+    </labels>
+    <labels>
+        <fullName>ACV_Atlas_Credits</fullName>
+        <categories>R8 - Account Commercial View (Customer Management)</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ACV_Atlas_Credits</shortDescription>
+        <value>https://xe-s-splgl02p.xe.abb.com:50001/irj/servlet/prt/portal/prtroot/pcd!3aportal_content!2fcom.abb.de.folder.AIM_ABB!2fcom.abb.de.folder.AIM_Content!2fSALESFORCE!2fcom.abb.de.folder.iView!2fcom.abb.de.folder.BO_Document_Viewer!2fcom.abb.de.iview.DS_SF_CREDITS?guid=</value>
+    </labels>
+    <labels>
+        <fullName>ACV_Atlas_Credits1</fullName>
+        <categories>STS PR3.0 - Account Commercial View Enhancements</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ACV_Atlas_Credits1</shortDescription>
+        <value>https://xe-s-splgl02p.xe.abb.com:50001/irj/servlet/prt/portal/prtroot/pcd!3aportal_content!2fcom.abb.de.folder.AIM_ABB!2fcom.abb.de.folder.AIM_Content!2fSALESFORCE!2fcom.abb.de.folder.iView!2fcom.abb.de.folder.BO_Document_Viewer!2fcom.abb.de.iview.DS_SF_CREDITS_HQ?guid=</value>
+    </labels>
+    <labels>
+        <fullName>ACV_Atlas_LocalAcc_HelpText</fullName>
+        <categories>STS PR3.0 - Account Commercial View Enhancements</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ACV_Atlas_LocalAcc_HelpText</shortDescription>
+        <value>Reports related to the displayed account. These reports can be opened or closed independently. All reports can be shown at the same time.</value>
+    </labels>
+	    <labels>
+        <fullName>ACV_Atlas_Message</fullName>
+        <categories>R8 - Account Commercial View (Customer Management)</categories>
+        <language>en_CN</language>
+        <protected>true</protected>
+        <shortDescription>ACV_Atlas_Message</shortDescription>
+        <value>This is the current snapshot of the Account&apos;s financials. If the Remaining Credit Available or Total Credit Limit is too low, contact your country credit manager.</value>
+    </labels>
+    <labels>
+        <fullName>ACV_Atlas_OpenDisputes</fullName>
+        <categories>R8 - Account Commercial View (Customer Management)</categories>
+        <language>en_CN</language>
+        <protected>true</protected>
+        <shortDescription>ACV_Atlas_OpenDisputes</shortDescription>
+        <value>https://xe-s-splgl02p.xe.abb.com:50001/irj/servlet/prt/portal/prtroot/pcd!3aportal_content!2fcom.abb.de.folder.AIM_ABB!2fcom.abb.de.folder.AIM_Content!2fSALESFORCE!2fcom.abb.de.folder.iView!2fcom.abb.de.folder.BO_Document_Viewer!2fcom.abb.de.iview.DS_SF_OPEN_DISP?guid=</value>
+
     </labels>
 </CustomLabels>
